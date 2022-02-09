@@ -1,5 +1,5 @@
-_**Piu' sotto, al termine della lingua inglese trovi il testo in italiano </i>**_
-_**Below the English text you'll find the Italian version</i>**_
+_**Piu' sotto, al termine della lingua inglese trovi il testo in italiano. </i>**_
+_**<br>Below the English text you'll find the Italian version</i>**_
 <br>
 
 # STM32-PVD
