@@ -1,17 +1,16 @@
-# STM32-PVD
-
 _**Piu' sotto, al termine della lingua inglese trovi il testo in italiano </i>**_
+_**Below the English text you'll find the Italian version</i>**_
+<br>
+
+# STM32-PVD
 
 
 <br>
 
-# The Gsm Gate Opener
-
-The "The GSM Gate Opener" repositories contain the source code, schematics, PCB layouts and also slides shown in the YouTube playlist: https://www.youtube.com/playlist?list=PL6Fwy7aR3zSnGOjOkljFuyvuQFsbg0n9Z.
+This repository contains the source code related to the YouTube video:
+The above mentionned video shows how to setup and enable the Power Voltage Detector (PVD) feature available in the STM32 microcontrollers, showing critical issues to get a working project. 
 
 This respository will contain commentary, notes, and errata.
-
-For project-specific technical details refer to the project repositories below listed.
 
 ---
 > The software, schemes and PCB designs in this set of repositories are provided just for 
@@ -24,49 +23,24 @@ For project-specific technical details refer to the project repositories below l
 
 ---
 
-## Project Repositories
-
-[Source code (multilingual)] (https://github.com/maudeve-it/The-Gate-Opener_source-code)
-
-[PCB design: Main Module] (https://github.com/maudeve-it/The-Gate-Opener_PCB_base-module_KiCad)
-
-[PCB design: Display Module] (https://github.com/maudeve-it/The-Gate-Opener_PCB_display-module_KiCad)
-
-[Source Code of SIM800L testing sketch] (https://github.com/maudeve-it/The-Gate-Opener_SIM800L-testing-code)
-
-[User Manual] (https://github.com/maudeve-it/The-Gate-Opener_User-Manual)
-
-[Slides EN-lang] (https://github.com/maudeve-it/The-Gate-Opener_slides-EN)
-
-[Slides IT-lang] (https://github.com/maudeve-it/The-Gate-Opener_slides-IT)
-
-## Test Repositories
-
-Software in these repositories refers to tests performed in some video in YouTube playlist.
-
-[Test sketch about millis() usage] (https://github.com/maudeve-it/The-Gate-Opener_MILLIS-testing-code)
-
-[Test sketch about SIM800L usage] (https://github.com/maudeve-it/The-Gate-Opener_SIM800L-testing-code)
-
-
----
-
 ## NOTES
 
-20201102: I am still working on these repositories. Consider them uncomplete until this note is deleted.
+20210210: I am still working on this repositorY. Please consider it uncomplete until this note is deleted.
 
 ---
 
 <br>
 <br>
 
-# L'Apricancello GSM
+# STM32-PVD
 
-Le repository "The GSM Gate Opener" contengono i sorgenti, gli schemi, i layout PCB e le slide presentate nella playlist youtube: https://www.youtube.com/playlist?list=PL6Fwy7aR3zSnGOjOkljFuyvuQFsbg0n9Z.
 
-QUesta repository contiene, oltre a questa presentazione, eventuali commenti, note e errata-corrige.
+<br>
 
-Per i dettagli tecnici del progetto occorre riferirsi alle specifiche repository del progetto elencate sotto.
+
+
+Questa repository contiene il codice a cui fa riferimento il video YouTube:
+Il video detto mostra come configurare ed attivare la funzionalità Power Voltage Detector (PVD) disponibile sui microcontrollori STM32, mostrando anche i punti di attenzione per ottenere un progetto correttamente funzionante. 
 
 ---
 > Il software e gli schemi di progetto come i layout PCB in questa serie di repository 
@@ -79,34 +53,8 @@ Per i dettagli tecnici del progetto occorre riferirsi alle specifiche repository
 
 ---
 
-## Repository del Progetto
-
-[Codice Sorgente (multilingua)] (https://github.com/maudeve-it/The-Gate-Opener_source-code)
-
-[progetto PCB: Modulo Principale] (https://github.com/maudeve-it/The-Gate-Opener_PCB_base-module_KiCad)
-
-[progetto PCB: Modulo Display] (https://github.com/maudeve-it/The-Gate-Opener_PCB_display-module_KiCad)
-
-[Codice Sorgente sketch per test SIM800L] (https://github.com/maudeve-it/The-Gate-Opener_SIM800L-testing-code)
-
-[Manuale Utente] (https://github.com/maudeve-it/The-Gate-Opener_User-Manual)
-
-[Slide lingua IT] (https://github.com/maudeve-it/The-Gate-Opener_slides-IT)
-
-[Slide lingua EN] (https://github.com/maudeve-it/The-Gate-Opener_slides-EN)
-
-## Repository di test
-
-In queste repository sono archiviati gli sketch usati in alcuni video della playist YouTube.
-
-[Sketch per i test sull'uso di millis()] (https://github.com/maudeve-it/The-Gate-Opener_MILLIS-testing-code)
-
-[Sketch per i test sull'uso di SIM800L] (https://github.com/maudeve-it/The-Gate-Opener_SIM800L-testing-code)
-
----
-
 ## NOTE
 
-20201102: Sto ancora aggiornando le repository. Considerale incomplete finche' non rimuovero' questa nota. 
+20210210: Sto ancora aggiornando la repository. Che va considerata incompleta finche' non rimuovero' questa nota. 
 
 
