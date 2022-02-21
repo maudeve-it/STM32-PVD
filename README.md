@@ -7,8 +7,9 @@ _**<br>Below the English text you'll find the Italian version</i>**_
 
 <br>
 
-This repository contains the source code related to the YouTube video:
-The above mentionned video shows how to setup and enable the Power Voltage Detector (PVD) feature available in the STM32 microcontrollers, showing critical issues to get a working project. 
+This repository contains the source code related to the YouTube video: https://youtu.be/AHBGlCDGqhE
+The video shows how to setup and enable the Power Voltage Detector (PVD) feature available in the STM32 microcontrollers, showing critical issues to get a working project.
+PVD is used here to monitor power source and save system information into an EEPROM in case of a power loss.
 
 This respository will contain commentary, notes, and errata.
 
@@ -25,7 +26,7 @@ This respository will contain commentary, notes, and errata.
 
 ## NOTES
 
-20210210: I am still working on this repositorY. Please consider it uncomplete until this note is deleted.
+20210210: I am still working on this repository. Please consider it uncomplete until this note is deleted.
 
 ---
 
@@ -40,7 +41,8 @@ This respository will contain commentary, notes, and errata.
 
 
 Questa repository contiene il codice a cui fa riferimento il video YouTube:
-Il video detto mostra come configurare ed attivare la funzionalità Power Voltage Detector (PVD) disponibile sui microcontrollori STM32, mostrando anche i punti di attenzione per ottenere un progetto correttamente funzionante. 
+Il video mostra come configurare ed attivare la funzionalità Power Voltage Detector (PVD) disponibile sui microcontrollori STM32, mostrando anche i punti di attenzione per ottenere un progetto correttamente funzionante. 
+Nel progetto di esempio, PVD viene usato per monitorare l'alimentazione e salvare le informazioni di sistema su una EEPROM in caso di rilevamento di caduta di tensione.
 
 ---
 > Il software e gli schemi di progetto come i layout PCB in questa serie di repository 
