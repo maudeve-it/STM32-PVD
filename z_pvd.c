@@ -12,7 +12,9 @@
  *	4) setup instructions to execute on powerdown detection into the below PVD callback function
  *  5) call PVD_init() fuction in the main.c function before the main loop
  *
- *  more info on the youtube video: https://youtu.be/AHBGlCDGqhE
+ *  More info on the youtube video: https://youtu.be/AHBGlCDGqhE
+ *
+ * Licensing: https://github.com/maudeve-it/STM32-PVD/blob/main/LICENSE
  *
  */
 
